@@ -40,12 +40,12 @@ export const Navigation = () => {
         <Link 
           to="/" 
           className="flex items-center gap-3 group"
-          aria-label="FB Barbershop - Home"
+          aria-label="The Barber 1020 - Home"
         >
           <Scissors className="w-8 h-8 text-primary transition-transform duration-300 group-hover:rotate-45" />
           <div className="flex flex-col">
             <span className="font-display text-xl font-bold text-foreground tracking-wide">
-              FB 
+              The Barber 1020
             </span>
             <span className="text-primary text-sm tracking-[0.3em] uppercase -mt-1">
               Barbershop
