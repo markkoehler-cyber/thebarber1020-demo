@@ -181,7 +181,7 @@ const Contact = () => {
                         <h3 className="font-semibold text-foreground mb-1">Adresse</h3>
                         <p className="text-muted-foreground">
                           
-                          Große Mohrengasse 38<br />
+                          Taborstraße 53-55<br />
                           1020 Wien
                         </p>
                       </div>
@@ -194,10 +194,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
                         <a 
-                          href="tel:+43 664 5477777" 
+                          href="tel:+019456062" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          +43 664 5477777
+                          +019456062
                         </a>
                       </div>
                     </div>
@@ -209,10 +209,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">E-Mail</h3>
                         <a 
-                          href="mailto:fbbarbershopkg@gmail.com" 
+                          href="mailto:thebarber1020@gmail.com" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          fbbarbershopkg@gmail.com
+                          thebarber1020@gmail.com
                         </a>
                       </div>
                     </div>
@@ -225,7 +225,7 @@ const Contact = () => {
                         <h3 className="font-semibold text-foreground mb-1">Öffnungszeiten</h3>
                         <ul className="text-muted-foreground space-y-1 text-sm">
                           <li>Mo - Fr: 09:00 - 19:00</li>
-                          <li>Samstag: 09:00 - 18:00</li>
+                          <li>Samstag: 09:00 - 19:00</li>
                           <li>Sonntag: Geschlossen</li>
                         </ul>
                       </div>
@@ -234,15 +234,15 @@ const Contact = () => {
 
                   <div className="aspect-square lg:aspect-[4/5] rounded-sm overflow-hidden border border-border">
   <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.4223682725105!2d16.384418131529028!3d48.217741038917524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07f2f17c1ad7%3A0x1264bd7ffac3ba32!2sFB%20Barbershop!5e0!3m2!1sen!2sat!4v1768417153210!5m2!1sen!2sat"
-    width="100%"
-    height="100%"
-    style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
-    allowFullScreen
-    loading="lazy"
-    referrerPolicy="no-referrer-when-downgrade"
-    title="Standort FB Barbershop"
-  />
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1740.4630596289442!2d16.388930440051386!3d48.21731339745788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07713736d909%3A0x165409a338a8b856!2sMustistyle!5e0!3m2!1sde!2sat!4v1769021031459!5m2!1sde!2sat"
+  width="100%"
+  height="100%"
+  style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  title="Standort Mustistyle Wien"
+/>
 </div>
 
                 </div>
