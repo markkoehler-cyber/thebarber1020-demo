@@ -234,14 +234,14 @@ const Contact = () => {
 
                   <div className="aspect-square lg:aspect-[4/5] rounded-sm overflow-hidden border border-border">
   <iframe
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1740.4630596289442!2d16.388930440051386!3d48.21731339745788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07713736d909%3A0x165409a338a8b856!2sMustistyle!5e0!3m2!1sde!2sat!4v1769021031459!5m2!1sde!2sat"
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4385.343591291883!2d16.37508492684433!3d48.22138506696005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07a8fac65a35%3A0x957dd96c3b498d05!2sThe%20Barber%201020!5e0!3m2!1sde!2sat!4v1769025013920!5m2!1sde!2sat"
   width="100%"
   height="100%"
   style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
   allowFullScreen
   loading="lazy"
   referrerPolicy="no-referrer-when-downgrade"
-  title="Standort Mustistyle Wien"
+  title="Standort The Barber 1020"
 />
 </div>
 
