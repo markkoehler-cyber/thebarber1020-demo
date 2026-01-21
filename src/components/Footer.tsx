@@ -15,7 +15,7 @@ export const Footer = () => {
               <Scissors className="w-8 h-8 text-primary transition-transform duration-300 group-hover:rotate-45" />
               <div className="flex flex-col">
                 <span className="font-display text-xl font-bold text-foreground tracking-wide">
-                  FB Barbershop
+                  The Barber 1020
                 </span>
                 <span className="text-primary text-sm tracking-[0.3em] uppercase -mt-1">
                   Barbershop
@@ -28,7 +28,7 @@ export const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a 
-                href="https://www.instagram.com/fb_barbershop_/?igsh=emw1b3hnc2kwZjY3&utm_source=qr#" 
+                href="https://www.instagram.com/thebarber_1020/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:border-primary hover:text-primary transition-all duration-300"
@@ -37,7 +37,7 @@ export const Footer = () => {
                 <Instagram className="w-5 h-5" />
               </a>
               <a 
-                href="https://www.facebook.com/fbbarber1020" 
+                href="https://www.facebook.com/thebarber_1020/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:border-primary hover:text-primary transition-all duration-300"
@@ -86,7 +86,7 @@ export const Footer = () => {
               </li>
               <li className="flex justify-between text-muted-foreground">
                 <span>Samstag</span>
-                <span className="text-foreground">09:00 - 18:00</span>
+                <span className="text-foreground">09:00 - 19:00</span>
               </li>
               <li className="flex justify-between text-muted-foreground">
                 <span>Sonntag</span>
@@ -104,26 +104,26 @@ export const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary shrink-0 mt-0.5" />
                 <span className="text-muted-foreground text-sm">
-                  Große Mohrengasse 38<br />
+                  Taborstraße 53-55<br />
                   1020 Wien, Österreich
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary shrink-0" />
                 <a 
-                  href="tel:+436645477777" 
+                  href="tel:+019456062" 
                   className="text-muted-foreground hover:text-primary transition-colors text-sm"
                 >
-                  +436645477777
+                  +019456062
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary shrink-0" />
                 <a 
-                  href="mailto:fbbarbershopkg@gmail.com" 
+                  href="mailto:thebarber1020@gmail.com" 
                   className="text-muted-foreground hover:text-primary transition-colors text-sm"
                 >
-                  fbbarbershopkg@gmail.com
+                  thebarber1020@gmail.com
                 </a>
               </li>
             </ul>
@@ -135,7 +135,7 @@ export const Footer = () => {
       <div className="border-t border-border">
         <div className="container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} FB Barbershop. Alle Rechte vorbehalten.
+            © {currentYear} The Barber 1020. Alle Rechte vorbehalten.
           </p>
           <div className="flex gap-6 text-sm">
             <Link to="/impressum" className="text-muted-foreground hover:text-primary transition-colors">
